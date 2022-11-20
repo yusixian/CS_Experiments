@@ -1,0 +1,2 @@
+E:\Programming\project\学生信息管理系统\项目源代码\x64\Debug\Student_System.exe
+E:\Programming\project\学生信息管理系统\项目源代码\x64\Debug\Student_System.pdb

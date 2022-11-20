@@ -1,0 +1,18 @@
+﻿  global.cpp
+  Menus.cpp
+  Operate.cpp
+E:\Programming\project\学生信息管理系统\项目源代码\Operate.cpp(252,14): warning C4477: “printf_s”: 格式字符串“%-3d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+E:\Programming\project\学生信息管理系统\项目源代码\Operate.cpp(252,14): message : 请考虑在格式字符串中使用“%zd”
+E:\Programming\project\学生信息管理系统\项目源代码\Operate.cpp(174,10): warning C4101: “s”: 未引用的局部变量
+E:\Programming\project\学生信息管理系统\项目源代码\Operate.cpp(325,13): warning C4477: “printf_s”: 格式字符串“%-3d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+E:\Programming\project\学生信息管理系统\项目源代码\Operate.cpp(325,13): message : 请考虑在格式字符串中使用“%zd”
+E:\Programming\project\学生信息管理系统\项目源代码\Operate.cpp(357,12): warning C4477: “printf_s”: 格式字符串“%-3d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+E:\Programming\project\学生信息管理系统\项目源代码\Operate.cpp(357,12): message : 请考虑在格式字符串中使用“%zd”
+E:\Programming\project\学生信息管理系统\项目源代码\Operate.cpp(391,12): warning C4477: “printf_s”: 格式字符串“%-3d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+E:\Programming\project\学生信息管理系统\项目源代码\Operate.cpp(391,12): message : 请考虑在格式字符串中使用“%zd”
+E:\Programming\project\学生信息管理系统\项目源代码\Operate.cpp(497,16): warning C4101: “pw”: 未引用的局部变量
+  Student.cpp
+  main.cpp
+  User.cpp
+  正在生成代码...
+  Student_System.vcxproj -> E:\Programming\project\学生信息管理系统\项目源代码\x64\Debug\Student_System.exe
