@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="views.StartMenusView">
+  <grid id="fc1c" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="76" y="75" width="542" height="312"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="27dc6" binding="mainpanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-9868951"/>
+          <enabled value="true"/>
+          <foreground color="-12236470"/>
+          <visible value="true"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="f005e" layout-manager="GridLayoutManager" row-count="2" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="20" bottom="0" right="30"/>
+            <constraints border-constraint="Center"/>
+            <properties>
+              <background color="-9868951"/>
+              <enabled value="true"/>
+              <foreground color="-12236470"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="c5ecf" class="javax.swing.JTextField" binding="UserNameField">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="7" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-1"/>
+                  <font size="26"/>
+                  <foreground color="-12236470"/>
+                  <text value="test"/>
+                </properties>
+              </component>
+              <component id="806ff" class="javax.swing.JPasswordField" binding="PasswordField">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <background color="-1"/>
+                  <font size="26"/>
+                  <foreground color="-12236470"/>
+                  <text value="123456"/>
+                </properties>
+              </component>
+              <component id="f7f45" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false">
+                    <preferred-size width="50" height="17"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <background color="-1"/>
+                  <font size="26" style="1"/>
+                  <foreground color="-1"/>
+                  <horizontalAlignment value="4"/>
+                  <horizontalTextPosition value="0"/>
+                  <text value="用户名"/>
+                </properties>
+              </component>
+              <component id="8ba10" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                    <preferred-size width="40" height="17"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <background color="-16777216"/>
+                  <font size="26" style="1"/>
+                  <foreground color="-1"/>
+                  <horizontalAlignment value="4"/>
+                  <horizontalTextPosition value="2"/>
+                  <text value="密码"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="ecea9" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="10" left="20" bottom="10" right="0"/>
+            <constraints border-constraint="North"/>
+            <properties>
+              <background color="-9868951"/>
+              <foreground color="-12236470"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="a222c" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="36" style="1"/>
+                  <foreground color="-1"/>
+                  <text value="欢迎来到桶装水下单系统！"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="47ffb" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="10" left="0" bottom="10" right="0"/>
+            <constraints border-constraint="South"/>
+            <properties>
+              <background color="-9868951"/>
+              <foreground color="-12236470"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="44438" class="javax.swing.JButton" binding="RegisterButton">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-1"/>
+                  <font size="26"/>
+                  <foreground color="-9868951"/>
+                  <text value="注册"/>
+                </properties>
+              </component>
+              <component id="89dae" class="javax.swing.JButton" binding="LoginButton">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-1"/>
+                  <font size="26"/>
+                  <foreground color="-9868951"/>
+                  <hideActionText value="false"/>
+                  <horizontalTextPosition value="0"/>
+                  <text value="登录"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
