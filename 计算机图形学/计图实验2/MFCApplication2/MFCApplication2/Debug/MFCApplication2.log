@@ -1,0 +1,7 @@
+﻿  MFCApplication2View.cpp
+C:\Programming\MFC\计图实验2_余思娴\MFCApplication2\MFCApplication2\MFCApplication2View.cpp(148,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验2_余思娴\MFCApplication2\MFCApplication2\MFCApplication2View.cpp(148,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验2_余思娴\MFCApplication2\MFCApplication2\MFCApplication2View.cpp(152,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验2_余思娴\MFCApplication2\MFCApplication2\MFCApplication2View.cpp(152,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验2_余思娴\MFCApplication2\MFCApplication2\MFCApplication2View.cpp(305,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  MFCApplication2.vcxproj -> C:\Programming\MFC\计图实验2_余思娴\MFCApplication2\Debug\MFCApplication2.exe

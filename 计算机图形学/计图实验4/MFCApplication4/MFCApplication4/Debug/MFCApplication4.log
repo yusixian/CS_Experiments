@@ -1,0 +1,16 @@
+﻿  MFCApplication4View.cpp
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(160,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(160,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(160,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(160,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(161,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(161,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(161,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(161,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(175,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(175,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(175,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(175,60): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(175,98): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\MFCApplication4\MFCApplication4View.cpp(175,88): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  MFCApplication4.vcxproj -> C:\Programming\MFC\计图实验4_余思娴\MFCApplication4\Debug\MFCApplication4.exe

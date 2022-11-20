@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\34504\OneDrive - nahcox\Programming\MFC\计图实验5_余思娴\demo5\demo5\main.c(38,25): warning C4113: “void (__cdecl *)()”和“void (__cdecl *)(void)”的参数列表不同
+C:\Users\34504\OneDrive - nahcox\Programming\MFC\计图实验5_余思娴\demo5\demo5\main.c(39,23): warning C4113: “void (__cdecl *)()”和“void (__cdecl *)(void)”的参数列表不同
+  demo5.vcxproj -> C:\Users\34504\OneDrive - nahcox\Programming\MFC\计图实验5_余思娴\demo5\Debug\demo5.exe

@@ -1,0 +1,16 @@
+﻿  MFCApplication3View.cpp
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(143,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(145,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(286,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(287,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(288,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(289,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(290,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(291,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(293,44): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(293,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(293,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(293,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(294,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\MFCApplication3\MFCApplication3View.cpp(294,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  MFCApplication3.vcxproj -> C:\Programming\MFC\计图实验3_余思娴\MFCApplication3\Debug\MFCApplication3.exe
