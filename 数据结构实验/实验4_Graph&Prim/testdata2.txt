@@ -1,0 +1,17 @@
+6 10
+A
+B
+C
+D
+E
+F
+AB 6
+AC 1
+AD 5
+BC 5
+BE 3
+CD 5
+CE 6
+CF 4
+DF 2
+EF 6

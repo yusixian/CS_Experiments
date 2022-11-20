@@ -1,0 +1,20 @@
+7 10
+A
+C
+D
+E
+F
+H
+K
+CA
+CH
+AD
+AE
+AF
+DH
+KE
+FK
+HF
+KH
+
+
